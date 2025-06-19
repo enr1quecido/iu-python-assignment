@@ -1,9 +1,9 @@
-# IU Python Assignment – Visualising Curve Data
+# Python Written Assignment – Visualising Curve Data
 
 This repository accompanies my written assignment for the
-**Programming with Python** module at IU Akademie
-It compares three visualisation libraries – **Matplotlib**, **Seaborn** and
-**Bokeh** – using the official “ideal-function” datasets provided by IU.
+**Programming with Python** module at IU Akademie.
+It compares three visualisation libraries (**Matplotlib**, **Seaborn** and
+**Bokeh**) using the official “ideal-function” datasets provided by academy.
 
 ## Quick start
 ```bash
